@@ -1,4 +1,4 @@
-# C-Sharp-File-Sim
+# File-Sim
 
 The following c# code creates a GUI based virtual file system based on 3 physical drives. The simulator starts out with all the directories closed.
 
